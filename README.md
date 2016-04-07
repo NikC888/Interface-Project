@@ -1,8 +1,8 @@
-#### BasicStructure
+#### Infterace Project
 
-### Date
+### April 6, 2016
 
-Basic structure for future projects
+Interface Project 
 
 * Git
 * Java 7
